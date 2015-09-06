@@ -1,2 +1,2 @@
 # BacklineTNT
-Disruptive. Moonshot. Paradigm shift. Unicorn.
+Text message based forms and reminders for any healthcare practice, anywhere.
